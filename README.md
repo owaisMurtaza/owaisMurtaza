@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm Owais Khan</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | React Native | UCP Lahore</h3>
+<h1 align="center">Hi 👋 I'm Owais Murtaza</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | React Native | </h3>
 
 <br/>
 
